@@ -59,3 +59,7 @@ section {
   border-style: dotted;
   border-color: green;
 }
+
+#section_1 ul li {
+  list-style-type: circle;
+}
