@@ -1,0 +1,61 @@
+body {
+  margin: 10px;
+  border-style: solid;
+}
+
+h1 {
+  margin: 10px;
+  border-style: dotted;
+  border-color: brown;
+  text-align: center;
+}
+
+#subtitle {
+  margin: 10px;
+  border-style: dotted;
+  border-color: green;
+  color: gray;
+  text-align: center;
+}
+
+img {
+  margin: 10px;
+  display: block;
+  border-style: dotted;
+  border-color: green;
+  margin: auto;
+}
+
+figcaption {
+  margin: 10px;
+  border-style: dotted;
+  border-color: green;
+  text-align: center;
+}
+
+figure {
+  margin: 10px;
+  border-style: dotted;
+  border-color: maroon;
+}
+
+section {
+  margin: 10px;
+  border-style: dotted;
+  border-color: maroon;
+}
+
+.text_style {
+  font-size: 15px;
+  color: darkslategray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-indent: 10px;
+}
+
+#note {
+  font-size: 30px;
+  color: red;
+  margin: 10px;
+  border-style: dotted;
+  border-color: green;
+}
