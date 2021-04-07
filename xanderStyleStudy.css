@@ -4,4 +4,10 @@ body {
 
 h1 {
   border-style: dotted red;
+  background-color: blue;
+}
+
+li {
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
 }
